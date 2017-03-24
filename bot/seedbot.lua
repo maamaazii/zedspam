@@ -226,7 +226,7 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {320918622,281621440,0,tonumber(our_id)},--Sudo users
+    sudo_users = {320918622,281621440,218748649,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Telemamaz v2 - Open Source
